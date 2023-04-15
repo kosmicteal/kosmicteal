@@ -8,5 +8,5 @@
 </p>
 <h3>Development Software</h3>
 <p float="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code"/> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio 2019"/> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" title="Excel (VBS)"/> <img height="32" width="32" src="https://cdn.simpleicons.org/affinity" title="Affinity Suite" /> <img height="32" width="32" src="https://cdn.simpleicons.org/blender" title="Blender"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code"/> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio 2019"/> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" title="Excel (VBS)"/> <img height="32" width="32" src="https://cdn.simpleicons.org/affinity" title="Affinity Suite" /> <img height="32" width="32" src="https://cdn.simpleicons.org/blender" title="Blender"/> <img height="32" width="32" src="./beaver-head.png" title="DBeaver"/> 
 </p>
